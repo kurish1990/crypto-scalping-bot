@@ -1,0 +1,2 @@
+ccxt==3.0.86
+websocket-client==1.6.2
